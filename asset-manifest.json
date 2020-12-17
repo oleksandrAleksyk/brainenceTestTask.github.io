@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brainenceTestTask.github.io/static/css/main.76363dbc.chunk.css",
+    "main.js": "/brainenceTestTask.github.io/static/js/main.9801e6c1.chunk.js",
+    "main.js.map": "/brainenceTestTask.github.io/static/js/main.9801e6c1.chunk.js.map",
+    "runtime-main.js": "/brainenceTestTask.github.io/static/js/runtime-main.6a4ee924.js",
+    "runtime-main.js.map": "/brainenceTestTask.github.io/static/js/runtime-main.6a4ee924.js.map",
+    "static/js/2.11e7bce5.chunk.js": "/brainenceTestTask.github.io/static/js/2.11e7bce5.chunk.js",
+    "static/js/2.11e7bce5.chunk.js.map": "/brainenceTestTask.github.io/static/js/2.11e7bce5.chunk.js.map",
+    "index.html": "/brainenceTestTask.github.io/index.html",
+    "static/css/main.76363dbc.chunk.css.map": "/brainenceTestTask.github.io/static/css/main.76363dbc.chunk.css.map",
+    "static/js/2.11e7bce5.chunk.js.LICENSE.txt": "/brainenceTestTask.github.io/static/js/2.11e7bce5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a4ee924.js",
+    "static/js/2.11e7bce5.chunk.js",
+    "static/css/main.76363dbc.chunk.css",
+    "static/js/main.9801e6c1.chunk.js"
+  ]
+}
